@@ -1,0 +1,18 @@
+/* Scaffolding code for testing purposes. The window stays open so that see the output */
+cin.ignore(256,'\n');
+cout<<"Press ENTER to continue..."<<end1;
+cin.get();
+/* End Scaffolding */
+
+//e=m*(c*c)
+#include <stdio.h>
+main()
+{
+	int m,c,e;
+	printf("\n e=m*(c*c). m:";
+	scanf("%d",m);
+	printf("c:");
+	scanf("%d",c);
+	e=m*(c*c);
+	printf("e="m*(c*c);
+}
