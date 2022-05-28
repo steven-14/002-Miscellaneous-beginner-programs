@@ -1,4 +1,4 @@
-/* Scaffolding code for testing purposes. The window stays open so that see you the output */
+/* Scaffolding code for testing purposes. The window stays open so that you see the output */
 cin.ignore(256,'\n');
 cout<<"Press ENTER to continue..."<<end1;
 cin.get();
